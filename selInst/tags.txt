@@ -1,0 +1,2 @@
+tag:badtag,badtag2
+tag2:badtag,ffffetag
